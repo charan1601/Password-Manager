@@ -3,15 +3,7 @@
 
 Zara is developing a new version of password manager. Earlier, she was using some third-party password manager but she figured out that it can't keep track of all the passwords which has been set for the respective account. As she is very concerned about the security, she decided to develop her own version of the password manager
 
-Objective: To develop a custom password manager using Python
-
 Domain:  Security
-
-Steps to perform:            
-
-Implement the following design
-
-
 
 class BasePasswordManager
 
